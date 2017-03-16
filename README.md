@@ -13,4 +13,5 @@
 ![](https://github.com/zlbest/responsive_modal/blob/master/img/w.png)
 
 纵向缩小展示
+
 ![](https://github.com/zlbest/responsive_modal/blob/master/img/h.png)
